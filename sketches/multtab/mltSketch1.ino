@@ -1,4 +1,4 @@
-// nmulttab.ino: generate a multiplication table
+// mltSketch1.ino: generate a multiplication table
 #include <mltLib2.h>
 
 const unsigned t = 12;
@@ -6,7 +6,7 @@ const unsigned t = 12;
 unsigned v;
 void setup() {
   Serial.begin(115200);
-  Serial.printf("\n\nmulttab\n");
+  Serial.printf("\n\nWelcome to mltSketch1.ino\n");
   v=1;
 }
 
