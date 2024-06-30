@@ -5,7 +5,7 @@ Can one repo host multiple Arduino Libs.
 This is a single repo, containing two Arduino Libraries.
 The libraries do not do anything useful.
 This is a test to see if it is possible to submit those libraries to the
-Arduino library [registry](https://github.com/maarten-pennings/library-registry).
+Arduino library [registry](https://github.com/arduino/library-registry).
 
 # Files
 
